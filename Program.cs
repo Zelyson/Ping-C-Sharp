@@ -35,7 +35,7 @@ namespace Ping_C_
             catch
             {
                 Console.WriteLine("");
-                Console.WriteLine("You need to provide arguments.\n1: Adress \n2: Aumber of times you want to ping \n3: Timeout. \n\nEg.: ddos 192.168.178.1 10000 100");
+                Console.WriteLine("You need to provide some arguments.\n1: Adress \n2: Aumber of times you want to ping \n3: Timeout. \n\nEg.: ddos 192.168.178.1 10000 100");
                 Console.WriteLine("");
 
                 Environment.Exit(1);
