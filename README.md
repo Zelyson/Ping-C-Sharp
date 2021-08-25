@@ -29,7 +29,7 @@ If the information it returns contains a tab called: .NET SDKs installed, you ar
 Navigate to the folder containing the Program.cs file and open a command prompt here. then type:
 
 ```sh
-dotnet publish -c Release -m
+dotnet publish -c Release
 ```
 A new folder named *bin* will appear. In there, navigate to *Release* then to *net5.0* or *net6.0* depending on what version of .NET you have installed. In the *publish* folder you will find the Ping_C#.exe file, which is the program you just built.
 
