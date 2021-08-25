@@ -1,7 +1,7 @@
 # Ping C#
 This application is meant to test your home network, your network appliances or just for fun.
 
-It does in no way shape or form encourage its use to  perform illegal activities such as denial of service attacks or illegal usage in combination with other programs and services.
+It does in no way shape or form encourage its use to  perform illegal activities such as denial of service attacks or illegal usage in combination with or without other programs and/or services.
 
 ## Usage
 As this is an executable meant for cli usage, nothing will happen if you open the file from your file explorer. You have to open it directly from your command line.
