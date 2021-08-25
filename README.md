@@ -31,6 +31,6 @@ Navigate to the folder containing the Program.cs file and open a command prompt 
 ```sh
 dotnet publish -c Release -m
 ```
-A new folder named *bin* will appear. In there, navigate to *Release\net5.0\publish* and you will find the .exe file you want to execute.
+A new folder named *bin* will appear. In there, navigate to *Release* then to *net5.0* or *net6.0* depending on what version of .NET you have installed. In the *publish* folder you will find the Ping_C#.exe file, which is the program you just built.
 
 -27.07.2021 
