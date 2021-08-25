@@ -17,8 +17,8 @@ ddos 192.168.178.1 5000 100
 To ping endlessly use -1 in the second argument.
 
 ## Dependencies
-You need to have the .NET SDK installed on your machine. 
-To check, open cmd or any cli and type:
+You have to have the .NET SDK installed on your machine in order to Build this project. 
+To check if this is the case, open cmd or any cli on your machine and type:
 
 ```sh
 dotnet --info
