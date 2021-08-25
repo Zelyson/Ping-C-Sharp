@@ -33,4 +33,6 @@ dotnet publish -c Release
 ```
 A new folder named *bin* will appear. In there, navigate to *Release* then to *net5.0* or *net6.0* depending on what version of .NET you have installed. In the *publish* folder you will find the Ping_C# executable, which is the program you just built.
 
--25.08.2021 
+You can also use the MAKE.BAT file.
+
+Sebastian - 25.08.2021 
