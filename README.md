@@ -23,7 +23,7 @@ To check if this is the case, open cmd or any cli on your machine and type:
 ```sh
 dotnet --info
 ```
-If the information it returns contains a tab called: .NET SDKs installed, you are all set up. I however it returns an error such as `'dotnet --info' is not recognized as an internal or external command`, you need to install the .NET SKD. A download can be found here: https://dotnet.microsoft.com/download
+If the information it returns contains a tab called: .NET SDKs installed, you are all set up. If however it returns an error such as `'dotnet --info' is not recognized as an internal or external command`, you need to install the .NET SKD. A download can be found here: https://dotnet.microsoft.com/download
 
 ## Build
 Navigate to the folder containing the Program.cs file and open a command prompt here. then type:
@@ -35,4 +35,4 @@ A new folder named *bin* will appear. In there, navigate to *Release* then to *n
 
 You can also use the MAKE.BAT file.
 
-Sebastian - 25.08.2021 
+- 05.05.2023 
